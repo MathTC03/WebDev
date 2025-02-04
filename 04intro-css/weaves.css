@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: merriweather, serif;
+    background-color: #fff5e3;
 }
 
 /* header */
@@ -17,7 +18,6 @@ header span {
 /* navigation */
 nav {
     background-color: #e0b877;
-    
 }
 nav ul {
     margin: 0;
@@ -41,9 +41,9 @@ nav a:hover {
 
 /* main */
 main {
-    background-color: #fff5e3;
     padding: 1rem 10px;
     color: #52453b;
+    height: 100%;
 }
 main h1 {
     margin: 0;
@@ -100,7 +100,10 @@ main a:hover {
 
 /* footer */
 footer {
-    background-color: #785323
+    background-color: #785323;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 footer p {
     margin: 0;
