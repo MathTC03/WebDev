@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    margin-bottom: 100px;
     font-family: merriweather, serif;
     background-color: #fff5e3;
 }
@@ -83,8 +84,7 @@ main address {
     padding: 1rem;
     border-radius: 5px;
     border: 2px solid black;
-    width: 325px
-    margin-bottom: 5rem;
+    width: 325px;
 }
 main strong {
     color: #000;
