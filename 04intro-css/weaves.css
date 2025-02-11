@@ -84,6 +84,7 @@ main address {
     border-radius: 5px;
     border: 2px solid black;
     width: 325px
+    margin-bottom: 5rem;
 }
 main strong {
     color: #000;
